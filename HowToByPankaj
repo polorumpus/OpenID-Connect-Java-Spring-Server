@@ -1,0 +1,5 @@
+To run server, first build the application by running command "MVN package"
+
+
+In order to connect to in-memory HSQLDB, use following command:
+C:\Users\pankaj\.m2\repository\org\hsqldb\hsqldb\2.3.2>java -cp hsqldb-2.3.2.jar  org.hsqldb.util.DatabaseManager
